@@ -6,3 +6,6 @@ def test_awesome1():
 
 def test_cal():
     assert 22 * 2 = 44
+
+def test_cal2():
+    assert 22 * 3 = 66
