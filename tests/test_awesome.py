@@ -9,3 +9,4 @@ def test_cal():
 
 def test_cal2():
     assert 22 * 3 == 66
+    assert 33 / 3 == 12
