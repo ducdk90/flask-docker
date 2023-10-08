@@ -3,4 +3,5 @@ def test_awesome1():
     assert 11 + 1 == 12
     assert 12 + 3 == 15
     assert 12 + 20 == 32
-    assert 12 + 20 == 33
+def test_cal():
+    assert 22 * 2 = 45
